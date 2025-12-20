@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "花占い",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-20T15:59:36.843925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花占い",
+      "artist": "VAUNDY",
+      "has_synced": true,
+      "path": "select/01_花占い_VAUNDY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花占い",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_花占い_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花占い - hanauranai",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_花占い_-_hanauranai_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花占い - hanauranai",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/04_花占い_-_hanauranai_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花占い",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/05_花占い_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花占い",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_花占い_Vaundy.txt"
+    }
+  ]
+}
